@@ -218,3 +218,27 @@ A CSS-based visual timeline was added to show the project development milestones
 - MDN Web Docs – HTML and CSS documentation
 - W3Schools – CSS Grid, Flexbox and Media Queries
 - Course slides (Weeks 1, 5, 6 and 7)
+- Independent Institute of Education. (2026). *WEDE5020 Week 1 slides: Introduction to web development* [PowerPoint slides]. Rosebank International.
+
+Independent Institute of Education. (2026). *WEDE5020 Week 5 slides: Web development & design* [PowerPoint slides]. Rosebank International.
+
+Independent Institute of Education. (2026). *WEDE5020 Week 6 slides: Web development & design* [PowerPoint slides]. Rosebank International.
+
+Independent Institute of Education. (2026). *WEDE5020 Week 7 slides: Web development & design* [PowerPoint slides]. Rosebank International.
+
+Mozilla Developer Network. (n.d.). *HTML: HyperText Markup Language*. MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML
+
+Mozilla Developer Network. (n.d.). *CSS: Cascading Style Sheets*. MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS
+
+Mozilla Developer Network. (n.d.). *CSS Grid Layout*. MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
+
+Mozilla Developer Network. (n.d.). *Responsive design*. MDN Web Docs. https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
+
+W3Schools. (n.d.). *CSS Grid layout*. https://www.w3schools.com/css/css_grid.asp
+
+W3Schools. (n.d.). *CSS Flexbox*. https://www.w3schools.com/css/css3_flexbox.asp
+
+W3Schools. (n.d.). *CSS media queries*. https://www.w3schools.com/css/css3_mediaqueries.asp
+- Google (2023). budget sheet. www.aplos.com. https://share.google/4PXMVNjmrQrhr4Eft
+- google (2026). accessed a week before for my pictures. children's pictures
+- Grok AI (2026). to refer and added few things. https://grokAI.com 
