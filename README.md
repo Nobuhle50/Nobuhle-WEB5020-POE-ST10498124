@@ -141,6 +141,55 @@ Images and text remain readable on all devices
 A CSS-based visual timeline was added to show the project development milestones. It uses positioning, pseudo-elements and responsive adjustments.
 
 ## 9. Timeline and Milestones
+## Timeline and Milestones
+
+| Milestone                                      | Period     | Status      |
+|------------------------------------------------|------------|-------------|
+| Choose target organisation & submit 2 proposals | Week 1–2   | Completed   |
+| Lecturer approval received                     | Week 2     | Completed   |
+| Content research, sitemap & wireframes         | Week 3     | Completed   |
+| HTML structure & basic content (Part 1)        | Week 4–5   | Completed   |
+| Fixes based on Part 1 feedback                 | Week 5     | Completed   |
+| External CSS, Grid, Flexbox & styling (Part 2) | Week 6–7   | Completed   |
+| Responsive design with media queries           | Week 7     | Completed   |
+| Visual timeline, budget table & final polish   | Week 8     | Completed   |
+| Final testing, README update & GitHub push     | Week 8     | in progress |
+
+## Project Timeline
+
+**Week 1–2**  
+• Selected Hlehle’s Orphanage as the target organisation  
+• Created and submitted two project proposals  
+• Received lecturer approval  
+
+**Week 3**  
+• Conducted content research and sourcing  
+• Created sitemap and low-fidelity wireframes  
+• Planned file and folder structure  
+
+**Week 4–5 (Part 1)**  
+• Built semantic HTML structure for all pages  
+• Added navigation, content and code comments  
+• Organised files and pushed first commits to GitHub  
+
+**Week 5**  
+• Applied fixes based on Part 1 feedback  
+• Corrected invalid HTML, nested tags and broken links  
+
+**Week 6–7 (Part 2)**  
+• Created external stylesheet (`css/style.css`)  
+• Applied typography, colour scheme and visual styles  
+• Used CSS Grid (with class selectors) and Flexbox  
+• Added `grid-column: span` and `grid-row: span`  
+• Implemented responsive design with `@media` breakpoints  
+• Added hover effects using pseudo-classes  
+
+**Week 8**
+- in progrss of pushing my work   
+• Added visual CSS timeline and budget table  
+• Final testing across devices  
+• Updated README.md with full documentation  
+• Pushed final version to GitHub
 
 ## 10. Changelog
 ### Part 1
