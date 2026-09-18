@@ -26,6 +26,8 @@ The website was developed in stages:
 - Encourage visitors to support the orphanage through sponsorships and donations.
 - Ensure the website works well on desktop, tablet and mobile devices.
 - Apply modern web development practices using semantic HTML5 and external CSS.
+- 
+## please check the one I uploaded today the one wrote resubmission with my name in capital letter  
 
 - ## screenshot
 - inside image folder
