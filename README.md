@@ -27,6 +27,9 @@ The website was developed in stages:
 - Ensure the website works well on desktop, tablet and mobile devices.
 - Apply modern web development practices using semantic HTML5 and external CSS.
 
+- ## screenshot
+- inside image folder
+
 ## 4. Key Features and Functionality
 - Multi-page website (Home, About Us, Events & Programs, Sponsorship, Contact)
 - Consistent navigation menu on every page
