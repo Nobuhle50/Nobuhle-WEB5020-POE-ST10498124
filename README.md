@@ -218,6 +218,20 @@ A CSS-based visual timeline was added to show the project development milestones
 - Improved overall visual design and readability
 - Updated README with full Part 2 documentation
 
+### Responsive Design & Layout Fixes (Post-Feedback)
+THE FEEDBACK FROM RUBRIC
+- **Layout Structure**: Improved CSS Grid and Flexbox alignment and spacing. Cards now stretch to equal height and are properly centered.
+- **Navigation Menu (Mobile)**: Navigation now stacks vertically and is fully centered on mobile devices. Links are easy to tap.
+- **Images**: All images are now fully responsive (`max-width: 100%`, `height: auto`). They display as clean centered blocks on mobile and can be right-aligned on larger screens.
+- **Typography**: Font sizes scale down appropriately on tablet and mobile for better readability.
+- **Overall Mobile Experience**: When the browser is resized or viewed on a phone, the layout changes clearly from multi-column to single-column with correct spacing.
+
+### Updated Changelog Entries
+- Fixed responsive layout issues (Grid + Flex alignment and spacing)
+- Improved mobile navigation (stacked + centered)
+- Made all images responsive and centered as blocks
+- Adjusted typography for smaller screens
+- Enhanced README documentation with detailed fixes
 ## 12. References
 - WEDE5020 Portfolio of Evidence Assignment Brief (The Independent Institute of Education)
 - MDN Web Docs – HTML and CSS documentation
